@@ -1,5 +1,7 @@
 Unreleased
 ----------
+- Added support for one-trigger-other order with take-profit leg via
+  newly introduced `--take-profit` argument to `order submit` command
 - Print textual representation for more account activity types
 - Bumped `apca` dependency to `0.16`
 
