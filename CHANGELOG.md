@@ -5,6 +5,7 @@ Unreleased
 - Print textual representation for more account activity types
 - Print leg orders in `order get` and `order list` commands
 - Bumped `apca` dependency to `0.16`
+- Bumped `tracing-subscriber` dependency to `0.2`
 
 
 0.1.1
