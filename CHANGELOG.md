@@ -4,7 +4,8 @@ Unreleased
   newly introduced `--take-profit` argument to `order submit` command
 - Print textual representation for more account activity types
 - Print leg orders in `order get` and `order list` commands
-- Bumped `apca` dependency to `0.16`
+- Bumped `apca` dependency to `0.17`
+- Bumped `tokio` dependency to `1.0`
 - Bumped `tracing-subscriber` dependency to `0.2`
 
 
